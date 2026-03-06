@@ -39,19 +39,30 @@ Compares search trends between:
 * Machine Learning
 ![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/abe85b635ecbdae50eb5acc68f7b1c1c4974c6c5/Screenshot%202026-03-06%20at%2011.31.16%20AM.png)
 
- 🧠 6. Correlation Analysis
+6. 📅 Monthly Trend Analysis
 
-A heatmap showing relationships between different technology trends.
+This analysis explores how search interest for **Artificial Intelligence** changes on a monthly basis using Google Trends data.
 
-🛠 Tools & Technologies
+The data was collected using the **Pytrends API** and aggregated to calculate the **monthly average search interest**. By resampling the time-series data by month, the analysis helps identify seasonal patterns and fluctuations in interest over time.
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Pytrends API**
-* Jupyter Notebook**
+### 📊 Insights
+
+* Search interest remained relatively stable during the early months of the year.
+* A noticeable increase in interest occurred around **August**, indicating growing public attention to Artificial Intelligence topics.
+* Interest continued to fluctuate during the later months, reaching a peak in **February**.
+* The variation in search interest may reflect technological developments, industry news, or increased adoption of AI-related tools.
+
+### 🎯 Purpose
+
+Monthly trend analysis helps:
+
+* Identify **seasonal patterns** in technology interest.
+* Understand **growth and decline periods**.
+* Provide insights into **public attention toward emerging technologies**.
+
+This type of analysis is useful for researchers, businesses, and analysts who want to track **technology adoption trends and market interest over time**.
+![image alt]()
+
 
  📂 Project Structure
 

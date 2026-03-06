@@ -28,6 +28,7 @@ An interactive world map showing global search interest distribution.
  🔍 4. Related Queries Analysis
 
 Shows the most common and rising search queries related to the technologies.
+![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/bc17cd3e965bd2b287ab2400e64ff9ab4dc46d9c/Screenshot%202026-03-06%20at%2011.31.38%20AM.png)
 
 📊 5. Technology Trend Comparison
 

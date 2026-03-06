@@ -37,6 +37,7 @@ Compares search trends between:
 * Artificial Intelligence
 * Data Science
 * Machine Learning
+![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/abe85b635ecbdae50eb5acc68f7b1c1c4974c6c5/Screenshot%202026-03-06%20at%2011.31.16%20AM.png)
 
  🧠 6. Correlation Analysis
 

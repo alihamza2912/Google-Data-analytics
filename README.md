@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes global search trends for emerging technologies such as **Cloud Computing, Data Science, and Machine Learning** using **Google Trends data**.
+This project analyzes global search trends for emerging technologies such as **Artificial Intelligence, Data Science, and Machine Learning** using **Google Trends data**.
 
 The goal of this project is to understand how interest in these technologies evolves over time, identify the countries with the highest search interest, and explore related trending topics.
 
@@ -18,6 +18,7 @@ A time-series analysis showing how search interest changes over the past 12 mont
  🌎 2. Country-wise Search Interest
 
 Identifies the top countries searching for specific technologies.
+![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/f2c2c37a4ff6a53aa4dfcc48e7b0c42c45111c13/Screenshot%202026-03-06%20at%2011.30.30%20AM.png)
 
 🌍 3. Global Interest Map
 
@@ -31,7 +32,7 @@ Shows the most common and rising search queries related to the technologies.
 
 Compares search trends between:
 
-* Cloud Computing
+* Artificial Intelligence
 * Data Science
 * Machine Learning
 
@@ -68,7 +69,7 @@ Google-Trends-Analysis/
  📈 Key Insights
 
 * Machine Learning and Data Science** show strong growth trends.
-* Cloud Computing** has consistent global interest.
+* Artificial Intelligence ** has consistent global interest.
 * Countries such as **United States, India, and Germany** show high search activity for these technologies.
 
  🚀 Future Improvements
@@ -80,9 +81,7 @@ Perform predictive trend analysis** using machine learning.
 👨‍💻 Author
 
 Ali Hamza
-
 B.Tech Computer Science Student
-Aspiring Data Analyst
 
 
 

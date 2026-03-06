@@ -23,6 +23,7 @@ Identifies the top countries searching for specific technologies.
 🌍 3. Global Interest Map
 
 An interactive world map showing global search interest distribution.
+![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/773cfa852b4c790435dd6514841c48d624da833b/Screenshot%202026-03-06%20at%2011.30.53%20AM.png)
 
  🔍 4. Related Queries Analysis
 

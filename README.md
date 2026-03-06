@@ -61,7 +61,7 @@ Monthly trend analysis helps:
 * Provide insights into **public attention toward emerging technologies**.
 
 This type of analysis is useful for researchers, businesses, and analysts who want to track **technology adoption trends and market interest over time**.
-![image alt]()
+![image alt](https://github.com/alihamza2912/Google-Data-analytics/blob/342a85a74ba739f7e08f3009201c58d69c8219da/Screenshot%202026-03-06%20at%2011.31.58%20AM.png)
 
 
  📂 Project Structure
